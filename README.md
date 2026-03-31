@@ -4,8 +4,8 @@
 ![CSS](https://img.shields.io/badge/CSS3-estilização-blue?style=for-the-badge&logo=css3)
 ![Responsive](https://img.shields.io/badge/Responsivo-Sim-green?style=for-the-badge)
 ![Layout](https://img.shields.io/badge/Layout-Flexbox-purple?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Concluído-brightgreen?style=for-the-badge)
 ![UI/UX](https://img.shields.io/badge/UI%2FUX-Basics-informational?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Concluído-brightgreen?style=for-the-badge)
 
 ---
 
