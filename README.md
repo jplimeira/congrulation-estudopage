@@ -5,6 +5,7 @@
 ![Responsive](https://img.shields.io/badge/Responsivo-Sim-green?style=for-the-badge)
 ![Layout](https://img.shields.io/badge/Layout-Flexbox-purple?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Concluído-brightgreen?style=for-the-badge)
+![UI/UX](https://img.shields.io/badge/UI%2FUX-Basics-informational?style=for-the-badge)
 
 ---
 
@@ -64,6 +65,12 @@ A estilização foi feita com foco em design moderno e responsivo:
 - Tipografia com **Poppins**
 - Espaçamentos bem definidos
 - Hierarquia visual clara
+
+### 🧠 Experiência do Usuário (UX)
+
+- Implementação de estados interativos com `:hover` e `:active`
+- Feedback visual imediato para ações do usuário
+- Melhoria na usabilidade e percepção de interatividade
 
 ### 🎯 Destaques:
 
